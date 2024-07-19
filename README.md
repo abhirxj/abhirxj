@@ -1,10 +1,10 @@
- Hi, I’m @abhirxj.
- I am a student currently pursuing BTECH specialization DATA SCIENCE.
- I’m interested in public learning.
- I’m currently learning cpp.
- How to reach me 
- ig- @_abhirxj
- Gmail-abhirajchouhan018@gmail.com
+Hi, I’m @abhirxj.
+I am a student currently pursuing BTECH specialization DATA SCIENCE.
+I’m interested in public learning.
+I’m currently learning cpp.
+How to reach me 
+ig- @_abhirxj
+Gmail-abhirajchouhan018@gmail.com
 
 
 <!---
