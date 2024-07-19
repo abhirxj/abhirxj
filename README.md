@@ -3,7 +3,7 @@
  I’m interested in public learning.
  I’m currently learning cpp.
  How to reach me ig- @_abhirxj
- Gmail- abhirajchouhan018@gmail.com
+ Gmail-abhirajchouhan018@gmail.com
 
 
 <!---
