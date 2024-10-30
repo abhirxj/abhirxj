@@ -6,6 +6,7 @@ How to reach me
 ig- @_abhirxj
 Gmail- abhirajchouhan018@gmail.com
 
+[![An image of @abhirxj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhirxj)](https://holopin.io/@abhirxj)
 
 <!---
 abhirxj/abhirxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
