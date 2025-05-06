@@ -1,8 +1,6 @@
 Hi, I’m @abhirxj.
-I am a student currently pursuing BTECH specialization DATA SCIENCE.
-I’m interested in public learning.
-I’m currently learning Web Development.
-How to reach me 
+Strong grip on programming languages like C/CPP & JAVA is all  I have.
+I'll update when learn some stuff.
 ig- @_abhirxj
 Gmail- abhirajchouhan018@gmail.com
 
