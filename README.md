@@ -1,5 +1,5 @@
 Hi, I’m @abhirxj.
-Strong grip on programming languages like C/CPP & JAVA is all  I have.
+Strong grip on programming languages like C/CPP & JAVA.
 I'll update when learn some stuff.
 ig- @_abhirxj
 Gmail- abhirajchouhan018@gmail.com
