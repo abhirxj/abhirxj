@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'am a 3rd year computer science undergraduate.<br>Currently developing java based system at Parabit Technologies Pvt. Ltd.<br>
-<br>Also I am actively solving Data Structures and Algorithms problems on different platforms.<br>
+I'am a 3rd year computer science undergraduate.<br>Currently developing java based system at Parabit Technologies Pvt. Ltd.
+Also I am actively solving Data Structures and Algorithms problems on different platforms.
 
 
 ## 🌐 Socials:
